@@ -1,0 +1,74 @@
+body{
+    /*background-color: #fbf9ff;*/
+    background-color: green;
+    /*margin:0px  10px 10px 10px;*/
+}
+p{
+    font-size: xx-large;
+}
+.Header{
+    background-color: goldenrod;
+    font-size: xx-large;
+    font-family: cursive;
+    font-style: italic;
+    box-shadow: 2px 2px 5px #888888;
+    background-image: url("photo/Capture2.PNG");
+    background-repeat: no-repeat;
+
+}
+.Header p{
+    font-size: medium;
+}
+.Nav{
+    /*float: top;*/
+    visibility: hidden;
+    background-color: gray;
+    height: 15%;
+    max-height: 0px;
+    border-bottom: slategray;
+    align-items: stretch;
+    box-shadow: 2px 2px 5px #888888;
+    /*width: 95%;*/
+}
+li {
+    display: inline-block;
+    text-align: center;
+    margin: 1%;
+    padding: 5px 5px 0px 5px;
+    border-color: darkblue;
+    border-radius: 20px;
+    /*box-shadow: 2px 2px 5px #888888;*/
+    /*border: 5px;*/
+}
+
+li a {
+    /*display: inline;*/
+    border-radius: 2px;
+    border: solid;
+    border-color: red;
+    color: #000;
+    padding: 8px 8px 4px 0px;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 2px 2px 5px #888888;
+}
+li a:hover{
+    background-color: greenyellow;
+    color: red;
+}
+.Jumbo {
+    background-image: url("photo/DSC_0931%20(2)%20Full.jpg");
+    background-position: center;
+    height: 70%;
+}
+.Jumbo p{
+    font-size: medium;
+}
+.Footer{
+    height: 10%;
+    font-size: medium;
+    font-style: oblique;
+}
+#footerRight{
+    float: right;
+}
