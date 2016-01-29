@@ -51,6 +51,10 @@ li a {
     text-decoration: none;
     text-align: center;
     box-shadow: 2px 2px 5px #888888;
+<<<<<<< HEAD
+=======
+    /*onclick:"clickIt()";*/
+>>>>>>> b3f8f70f72713220e0f97f2674427e68d027d848
 }
 li a:hover{
     background-color: greenyellow;

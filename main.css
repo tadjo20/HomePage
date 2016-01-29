@@ -11,10 +11,20 @@
 }
 
 .jumbotron {
+//<<<<<<< HEAD
   background-image:url('http://goo.gl/04j7Nn');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
+=======
+  background-image:url("photo/DSC_0931%20(2)%20Full.jpg");
+  height: 600px;
+  max-height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+
+>>>>>>> b3f8f70f72713220e0f97f2674427e68d027d848
 }
 
 .jumbotron .container {
@@ -46,4 +56,19 @@
 
 .learn-more a {
   color: #00b0ff;
+<<<<<<< HEAD
+=======
+}
+.headShot{
+
+  float: right;
+
+}
+#ZHeadShot{
+  /*height: 90%;*/
+  max-height: 400px;
+}
+#personal{
+  background-color: #a8bbcd;
+>>>>>>> b3f8f70f72713220e0f97f2674427e68d027d848
 }
