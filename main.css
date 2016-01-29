@@ -1,0 +1,64 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url("photo/DSC_0931%20(2)%20Full.jpg");
+  height: 600px;
+  max-height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.headShot{
+
+  float: right;
+
+}
+#ZHeadShot{
+  /*height: 90%;*/
+  max-height: 400px;
+}
+#personal{
+  background-color: #a8bbcd;
+}
